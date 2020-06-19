@@ -4,7 +4,7 @@
 
 
 
-### 第一章
+### Chapter 01
 
 学霸成绩很好，不然她也不会变成人们口中的学霸了。
 
@@ -630,7 +630,7 @@ Well, I don't need your help，学渣用力一甩手，Let go of me！
 
 
 
-### 第二章
+### Chapter 02
 
 学渣拎着一只箱子搬进了学霸那空荡荡的家。
 
@@ -910,7 +910,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 
 
-### 第三章
+### Chapter 03
 
 风和日丽，晴空万里无云。
 
